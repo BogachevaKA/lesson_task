@@ -5,7 +5,6 @@
 
 Console.Write("Введите количество элементов массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
-
 string[] arrayStrings = new string[size];
 int len = 3;
 int pos = 0;
